@@ -13,7 +13,7 @@ header h1 {
     font-weight: bold;
     color: khaki;
     text-align: center;
-    background-image: url(/Dev/Projects/Dasmoto/resources/images/pattern.jpeg);
+    background-image: url(pattern.jpeg);
     margin: 50px 0;
 }
 
